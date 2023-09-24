@@ -1,4 +1,4 @@
-Sudoku GUI
+#Sudoku GUI
 This is a simple Sudoku game implemented using the Pygame library. You can play Sudoku with this graphical user interface. Here's how to use it:
 
 How to Play
